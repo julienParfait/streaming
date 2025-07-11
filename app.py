@@ -74,16 +74,7 @@ def home_page():
         - Fournit une description numérique de toutes les variables ; 
 
         **Auteurs :**
-        - **Famara SADIO**, *Elève Ingénieur Statisticien Economiste en 2ème année*
-        - **Saran NDIAYE**, *Elève Ingénieur Statisticien Economiste en 2ème année*
-        - **Amadou YOUM**,  *Elève Ingénieur Statisticien Economiste en 2ème année*  
-        - **Yague DIOP**,   *Elève Ingénieur Statisticien Economiste en 2ème année* 
-        
-        Ecole nationale de la Statistique et de l'Analyse Economique PIERRE NDIAYE
-        
-        **Superviseur** :
-        
-        **Mously DIAW**, *Data scientist*
+        - **Julien Parfait BIDIAS**, *Statisticien*
         """)
     
     
